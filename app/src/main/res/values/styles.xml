@@ -1,0 +1,20 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/redFire</item>
+        <item name="colorPrimaryDark">@color/redDarkFire</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+
+    <style name="detail_text_black_16">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="AppTheme.AppBarLayoutTheme" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.ToolbarTheme" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.ToolbarPopupTheme" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

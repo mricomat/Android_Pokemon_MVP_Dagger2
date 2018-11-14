@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pokemon_Dagger_MVP</string>
+    <string name="generic_error">Error</string>
+    <string name="generic_retry">Retry</string>
+
+    <string name="pokemon_id">Id: %1$d</string>
+    <string name="pokemon_name">Name: %1$s</string>
+    <string name="pokemon_height">Height: %1$d</string>
+    <string name="pokemon_weight">Weight: %1$d</string>
+    <string name="pokemon_base_experience">Base experience: %1$d</string>
+    <string name="pokemon_shiny">Shiny:</string>
+</resources>
