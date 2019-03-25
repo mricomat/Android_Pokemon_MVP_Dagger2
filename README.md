@@ -1,4 +1,4 @@
-# Android_Pokemon_MVP_Dagger2
+# Android_Pokemon_MVP_Java
 
 This repository contains a detailed basic example app that implements MVP arquitecture using Dagger2, RxJava and Retrofit. The theme that I have chosen is that of a very basic pokedex.
 
